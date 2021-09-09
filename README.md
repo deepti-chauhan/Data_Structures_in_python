@@ -2,3 +2,4 @@
 Data Structures practise in python 
 
 -> Stack 
+-> Queue
