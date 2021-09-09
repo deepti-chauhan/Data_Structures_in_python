@@ -69,7 +69,7 @@ def main():
             e = (input('Enter the element : '))
             msg = myQueue.enqueue(e)
             if msg == -1:
-                print('Queue is full item cannot be push!!')
+                print('Queue is full item cannot be enqueued!!')
             else:    
                 print('item enqueued successfully!!')
         
